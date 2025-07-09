@@ -32,9 +32,3 @@ Include bullet points for each insight:
  5. Results Summary
 Between January and May 2025, I spent the most on POS purchases and airtime. Fidelity Bank charged me 4x more than OPay. 43% of my spending was unaccounted for (tagged as “Others”), suggesting I need stricter budget tracking. If my spending pattern continues, I’ll end the year with a significant deficit.
 Forecasted Year-End Balance: –₦394,500
-
- 6. How to Navigate This Repo
-📂 /data – Cleaned and raw Excel files
-📂 /screenshots – Key visuals from dashboard
-📂 /analysis-notes.md – Thought process & calculation logic
-📂 /final_dashboard.xlsx – Interactive dashboard (slicer enabled)
